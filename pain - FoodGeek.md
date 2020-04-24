@@ -29,7 +29,7 @@ From:
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 a température ambiante
 
 #### Stretch & folds 3
-- [ ] Se mouiller les mains poru que la pate n'accroche pas
+- [ ] Se mouiller les mains pour que la pate n'accroche pas
 - [ ] Stretch & fold haut, bas, gauche, droite [video](https://youtu.be/Znv99QbfWGs?t=308)
 - [ ] Faire un *Window pen test* [video](https://youtu.be/Znv99QbfWGs?t=358), si ce n'est pas convaincant il faudra faire un 4eme (et peut être 5eme) stretch & fold après une pause de 30 min
 - [ ] :clock230: Laisser reposer dans le bol couvert pendant 2h30 a température ambiante
@@ -43,14 +43,14 @@ From:
 - [ ] :clock1: Laisser reposer chaque pates pendant 20 minutes sous un linge humide
 
 #### Préparation des bannetons
-- [ ] Soupoudrer les bannetons de farien de riz (la farine de riz ne contient pas de gluten, donc elle ne sera pas absorbé par la pate)
+- [ ] Soupoudrer les bannetons de farine de riz (la farine de riz ne contient pas de gluten, donc elle ne sera pas absorbé par la pate)
 
 #### Final shaping
-- [ ] Soupoudrer un tout petit peu de farien sur le dessus de la pate puis la retourner face contre le plan de travail
+- [ ] Soupoudrer un tout petit peu de farine sur le dessus de la pate puis la retourner face contre le plan de travail
 - [ ] Faire un stretch & fold [video](https://youtu.be/Znv99QbfWGs?t=442)
 - [ ] Pousser la pate avec un racloir pour créer une tension sur le dessus de la pate [video](https://youtu.be/Znv99QbfWGs?t=447)
 - [ ] Quand la pate deviens bien tendue la mettre dans le banneton en la retournant
-- [ ] Soupoudrer de la farien de riz sur le pain
+- [ ] Soupoudrer de la farine de riz sur le pain
 - [ ] Mettre chaque banneton dans un sac plastique et placer au frigo jusqu'au lendemain (attention a ce que le sac plastique ne touche pas trop la pate)
 
 
