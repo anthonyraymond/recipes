@@ -32,7 +32,10 @@ From:
 - [ ] Se mouiller les mains pour que la pate n'accroche pas
 - [ ] Stretch & fold haut, bas, gauche, droite [video](https://youtu.be/Znv99QbfWGs?t=308)
 - [ ] Faire un *Window pen test* [video](https://youtu.be/Znv99QbfWGs?t=358), si ce n'est pas convaincant il faudra faire un 4eme (et peut être 5eme) stretch & fold après une pause de 30 min
-- [ ] :clock230: Laisser reposer dans le bol couvert pendant 2h30 a température ambiante
+
+
+#### Bulk fermentation
+- [ ] :clock230: Laisser reposer dans le bol couvert pendant 2h30 environ (cela varie en fonction de la température) a température ambiante. Il faut que la pate gonfle (entre 20 et 50%) un peu et paraisse plus légère.
 
 
 
