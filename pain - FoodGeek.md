@@ -19,12 +19,12 @@ From:
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 a température ambiante
 
 #### Stretch & folds 1
-- [ ] Se mouiller les mains poru que la pate n'accroche pas
+- [ ] Se mouiller les mains pour que la pate n'accroche pas
 - [ ] Stretch & fold haut, bas, gauche, droite [video](https://youtu.be/Znv99QbfWGs?t=308)
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 a température ambiante
 
 #### Stretch & folds 2
-- [ ] Se mouiller les mains poru que la pate n'accroche pas
+- [ ] Se mouiller les mains pour que la pate n'accroche pas
 - [ ] Stretch & fold haut, bas, gauche, droite [video](https://youtu.be/Znv99QbfWGs?t=308)
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 a température ambiante
 
