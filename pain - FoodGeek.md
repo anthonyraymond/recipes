@@ -15,7 +15,7 @@ From:
 
 #### Ajout du levain
 - [ ] Ajouter **185g de levain**, **19g de sel** et 50g d'eau** (pas du robinet)
-- [ ] Incorporer à la pate en pressant avec le desoigs a travers la pate et en la repliant sur elle même [video](https://youtu.be/Znv99QbfWGs?t=309)
+- [ ] Incorporer à la pate en pressant avec le desoigs a travers la pate et en la repliant sur elle même [video](https://youtu.be/Znv99QbfWGs?t=294)
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 a température ambiante
 
 #### Stretch & folds 1
@@ -59,11 +59,11 @@ From:
 
 
 #### Jour 2
-- [ ] Placer la cocote en fonte dans le four et commencer a faire chauffer a 180°C pendant 25 minutes
-- [ ] Augmenter la température a 260°C pendant encore 30 minutes (on le fait en deux étapes pour éviter de créer un choc thermique sur la cocote)
+- [ ] Placer la cocote en fonte dans le four et commencer a faire chauffer a 180°C pendant 15 minutes
+- [ ] Augmenter la température a 260°C pendant encore 40 minutes (on le fait en deux étapes pour éviter de créer un choc thermique sur la cocote)
 - [ ] Sortir la pate du bol en la retournant
-- [ ] Placer la pate dans la cocote
 - [ ] Lacerer la pate avec un angle faible et peu profond [video](https://youtu.be/Znv99QbfWGs?t=490)
+- [ ] Placer la pate dans la cocote
 - [ ] Vaporiser un peu d'eau sur la pate avec un vaporisateur et fermer le couvercle de la cocotte immediatement
 - [ ] :clock430: Laisser cuire 20 min sans jamais ouvrir le four ni la cocotte
 - [ ] Enlever le couvercle de la cocotte [video](https://youtu.be/Znv99QbfWGs?t=507)
