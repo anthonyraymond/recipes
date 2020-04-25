@@ -40,7 +40,7 @@ From:
 
 
 #### Preshaping
-- [ ] Sortir la pate sur le plan de travail et la couper en deux morceau égaux puis appliquer les opératiosn pour chaques patons
+- [ ] Sortir la pate sur le plan de travail et la couper en deux morceau égaux puis appliquer les opérations pour chaques patons
 - [ ] Faire un stretch & fold puis la retourner [video](https://youtu.be/Znv99QbfWGs?t=407)
 - [ ] Pousser la pate avec un racloir pour créer une tension sur le dessus de la pate [video](https://youtu.be/Znv99QbfWGs?t=420)
 - [ ] :clock1: Laisser reposer chaque pates pendant 20 minutes sous un linge humide
