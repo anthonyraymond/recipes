@@ -35,7 +35,7 @@ From:
 
 
 #### Bulk fermentation
-- [ ] :clock230: Laisser reposer dans le bol couvert pendant 2h30 environ (cela varie en fonction de la température) a température ambiante. Il faut que la pate gonfle (entre 20 et 50%) un peu et paraisse plus légère.
+- [ ] :clock230: Laisser reposer dans le bol couvert pendant 2h30 environ (cela varie en fonction de la température) a température ambiante. Il faut que la pate gonfle (entre 20 et 50%) et paraisse plus légère.
 
 
 
