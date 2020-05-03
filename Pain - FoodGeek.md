@@ -41,7 +41,7 @@ From:
 
 #### Preshaping
 - [ ] Sortir la pate sur le plan de travail et la couper en deux morceau égaux puis appliquer les opérations pour chaques patons
-- [ ] Faire un stretch & fold puis la retourner [video](https://youtu.be/Znv99QbfWGs?t=407)
+- [ ] Faire un stretch & fold (leger, jute pour créer de la tension ue la face du dessous) puis la retourner [video](https://youtu.be/Znv99QbfWGs?t=407)
 - [ ] Pousser la pate avec un racloir pour créer une tension sur le dessus de la pate [video](https://youtu.be/Znv99QbfWGs?t=420)
 - [ ] :clock1: Laisser reposer chaque pates pendant 20 minutes sous un linge humide
 
@@ -49,8 +49,9 @@ From:
 - [ ] Soupoudrer les bannetons de farine de riz (la farine de riz ne contient pas de gluten, donc elle ne sera pas absorbé par la pate)
 
 #### Final shaping
-- [ ] Soupoudrer un tout petit peu de farine sur le dessus de la pate puis la retourner face contre le plan de travail
-- [ ] Faire un stretch & fold [video](https://youtu.be/Znv99QbfWGs?t=442)
+- [ ] Retourner face contre le plan de travail
+- [ ] Faire un stretch & fold (leger, jute pour créer de la tension ue la face du dessous) [video](https://youtu.be/Znv99QbfWGs?t=442)
+- [ ] Retourner face en l'air
 - [ ] Pousser la pate avec un racloir pour créer une tension sur le dessus de la pate [video](https://youtu.be/Znv99QbfWGs?t=447)
 - [ ] Quand la pate deviens bien tendue la mettre dans le banneton en la retournant
 - [ ] Soupoudrer de la farine de riz sur le pain
