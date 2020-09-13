@@ -59,7 +59,7 @@ From:
 
 
 
-#### Jour 2
+## Jour 2
 - [ ] Placer la cocote en fonte dans le four et commencer a faire chauffer a 180°C pendant 15 minutes
 - [ ] Augmenter la température a 260°C pendant encore 40 minutes (on le fait en deux étapes pour éviter de créer un choc thermique sur la cocote)
 - [ ] Sortir la pate du bol en la retournant
