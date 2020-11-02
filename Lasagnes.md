@@ -1,7 +1,7 @@
 # Lasagnes
 
 ### Ingrédients
-**bolognaise**:
+**Bolognaise**:
 - Poitrine de porc (ou pancetta ou équivalent, pas de lardon en barquette gonflés a l'eau !)
 - 2 oignons
 - 1 petite carotte
@@ -16,16 +16,15 @@
 - Sauge
 - 15cl de vin rouge (optionnel)
 
-**pâtes**:
+**Pâtes**:
 - 300g de semoule de blé dur
 - 3 œufs
 - 3 cuillères à soupe d’huile d’olive
 
-**béchamel**:
+**Béchamel**:
 - 80g de beurre
 - 80g de farine
 - 800ml de lait
-- 1 pincé de noix de muscade
 
 **Autre**:
 - 150g de parmesan (entier, pas du déjà râpé !)
