@@ -49,7 +49,7 @@
 
 
 #### Préparation de la bolognaise
-- [ ] Mettre la **farine de blé dur** dans un saladier
+- [ ] Mettre la **farine de blé dur** dans un saladier.
 - [ ] Ajouter du **sel et du poivre** et mélanger.
 - [ ] Faire un puit et **ajouter les œufs** et **l’huile d’olive**.
 - [ ] Mélanger en partant du centre jusqu’à obtenir une pate lisse et assez ferme.
@@ -66,10 +66,10 @@
 - [ ] Mélanger au fouet pour défaire les grumeaux puis utiliser une marise pour maintenir le liquide en mouvement.
 
 #### Montage
-- [ ] Mettre une fine couche de sauce bolognaise au fond du plat
-- [ ] Placer une bande de pate
-- [ ] Ajouter deux ou trois copeaux de beurre sur la pâte
-- [ ] Râper très généreusement du **parmesan**
+- [ ] Mettre une fine couche de sauce bolognaise au fond du plat.
+- [ ] Placer une bande de pate.
+- [ ] Ajouter deux ou trois copeaux de beurre sur la pâte.
+- [ ] Râper très généreusement du **parmesan**.
 - [ ] Répéter les opérations:
   - Bolognaise
   - Béchamel
@@ -78,8 +78,7 @@
   - Parmesan
 
 #### Cuisson
-- 40 minutes à 180° (chaleur tournante)
-
+- 40 minutes à 180° (chaleur tournante), placez un léche frite en dessous du plat au cas ou il déborde pendant la cuisson.
 
 # Notes
 Evitez les lardons industriel en barquette, ils sont gonflés à la flotte et n'ont aucun gout. Un moreceau de lard (ventreche ou pancetta) acheté chez le boucheur / traiteur sera bien meilleur. Si vous n'en avez pas il vaut mieux ne rien mettre.
