@@ -1,6 +1,6 @@
 # Pâtes à la carbonara
 
-###Ingrédients (pour 2 personnes)
+### Ingrédients (pour 2 personnes)
 
 **Pâtes fraiches**:
  - 200g de semoule de blé dur
@@ -39,8 +39,7 @@
 - [ ] Verser les pates et la sauce dans une assiète et ajouter le guanciale grillé reservé précédement
 
 
-Notes
-Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani et autre saloperies de ce genre là, les Garofalo sont pas mal car elles sont épaisses et rugueuses mais il y a plein d’autres très bonnes marques. 
-On ne met PAS D’HUILE dans l’eau des pâtes !!! L'huile se déposerai à la surface des pates en la sauce glisserai dessus.
-
-Si la sauce est trop liquide on peut la repasser rapidement sur feu doux sans jamais arreter de remuer. Si l'oeuf a coaguler c'est que la poêle était trop chaude ou que les pates n'ont pas été assez remués, dans le cas la on ne peut pas rattraper.
+# Notes
+- Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani et autre saloperies de ce genre là, les Garofalo sont pas mal car elles sont épaisses et rugueuses mais il y a plein d’autres très bonnes marques. 
+- On ne met PAS D’HUILE dans l’eau des pâtes !!! L'huile se déposerai à la surface des pates en la sauce glisserai dessus.
+- Si la sauce est trop liquide on peut la repasser rapidement sur feu doux sans jamais arreter de remuer. Si l'oeuf a coaguler c'est que la poêle était trop chaude ou que les pates n'ont pas été assez remués, dans le cas la on ne peut pas rattraper.
