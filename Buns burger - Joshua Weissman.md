@@ -22,8 +22,10 @@ From: https://www.youtube.com/watch?v=gTGSUYMu6Ns
 - 1 oeuf
 - une cuillère a soupe de lait
 
-****
+**Autre**
 - 20g de beurre fondu (ou beurre noisette mais a redescendu à température ambiante)
+
+
 ## Recette
 
 #### Préparation du tangzhong
