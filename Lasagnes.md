@@ -79,3 +79,9 @@
 
 #### Cuisson
 - 40 minutes à 180° (chaleur tournante)
+
+
+# Notes
+Evitez les lardons industriel en barquette, ils sont gonflés à la flotte et n'ont aucun gout. Un moreceau de lard (ventreche ou pancetta) acheté chez le boucheur / traiteur sera bien meilleur. Si vous n'en avez pas il vaut mieux ne rien mettre.
+
+Même combat pour le parmesan, celui vendu rapé est tout sec et n'a plus aucun gout (a part le gout de sel), préferrez un morceau de parmesan sous vide ou un morceau acheté chez le fromager.
