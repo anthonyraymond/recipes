@@ -47,12 +47,12 @@
 - [ ] :clock2: Laisser mijoter une à deux heures sur feu doux, commencez à couvert puis retirer le couvercle sur la fin pour faire évaporer l’eau et avoir une sauce un peu plus consistante.
 
 
-#### Préparation de la bolognaise
+#### Préparation des pâtes
 - [ ] Mettre la **farine de blé dur** dans un saladier.
 - [ ] Ajouter du **sel et du poivre** et mélanger.
 - [ ] Faire un puit et **ajouter les œufs** et **l’huile d’olive**.
 - [ ] Mélanger en partant du centre jusqu’à obtenir une pate lisse et assez ferme.
-- [ ] :clock1: Recouvrir la pâte d’un peu de farine et **laisser reposer** dans un film plastique pendant **une heure**.
+- [ ] :clock1: Recouvrir la pâte d’un peu de farine et **laisser reposer** dans un film plastique pendant **une heure** (au mieux 24h au réfrigérateur).
 - [ ] Etaler la pâte en lamelle (épaisseur 5 ou 6 sur machine mercato atlas 150). 
 - [ ] Faire cuire faites cuire les pates une à une dans un grand volume d'eau (+- 1 minutes 30 chacune).
 - [ ] Laisser sécher les pates sur un torchon propre.
