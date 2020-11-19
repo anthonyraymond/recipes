@@ -36,7 +36,7 @@ Le TangZhong est une préparation japonaise qui consiste a faire l'équivalent d
 - [ ] Placer dans un bol et laisser à température ambiante
 
 #### Préparation de la pate
-- [ ] Faire chauffer **120g de lait entier** à 35°C puis ajouter **9g de levure boulangère**, délayer puis laisser reposer 8 minutes pour permettre aux bilels de levure de se dissoudre dans le lait.
+- [ ] Faire chauffer **120g de lait entier** à 35°C puis ajouter **9g de levure boulangère**, délayer puis laisser reposer 8 minutes pour permettre aux billes de levure de se dissoudre dans le lait.
 - [ ] Dans un bol (de de robot patissier) ajouter **320g de farine a pain**, **35g de sucre**, **7g de sel fin** et mélanger pour homogénéiser
 - [ ] Démarer le robot a vitesse lente (2/10) et ajouter **120g de lait entier**, 30 secondes plus tard ajouter la pate **TangZhong** suivie de **1 oeuf entier** et **1 jaune d'oeuf**
 - [ ] Augmenter la vitesse (3/10) et laisser travailler jusqu'a l'obtention d'une pate homogène [video](https://youtu.be/gTGSUYMu6Ns?t=199)
