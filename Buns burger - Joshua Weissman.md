@@ -10,7 +10,7 @@ From: https://www.youtube.com/watch?v=gTGSUYMu6Ns
 
 **Pate**:
 - 120g de lait entier
-- 9g de levure boulangère seche ou "traditionelle"
+- 9g de levure boulangère seche ou "instantanée"
 - 320g farine a pain
 - 7g sel fin
 - 35g sucre
