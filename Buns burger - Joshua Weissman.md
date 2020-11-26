@@ -46,7 +46,7 @@ Le TangZhong est une préparation japonaise qui consiste a faire l'équivalent d
 - [ ] Prendre la pate et rabatre tous les cotés vers le centre pour former une boule [video](https://youtu.be/gTGSUYMu6Ns?t=217)
 - [ ] Poser la pate en boule (couture vers le plan de travail) et avec un mouvement circulaire tout en gardant la pate en contact avec le plan de travail la faire légérement tourner pour qu'elle se repli sur elle même. On veut créer une tension sur la pate. [video](https://youtu.be/gTGSUYMu6Ns?t=221)
 - [ ] Placer la pate dans le bol (couture vers le bas)
-- [ ] Couvrir le bol avec un torchon propre
+- [ ] Couvrir le bol avec un torchon humide
 - [ ] Placer le bol dans un environnement chaud (idéallement 28°C), on peut la mettre dans le four éteint avec juste la lumière du four allumé
 - [ ] :clock130: Attendre entre 1h et 1h30 que la pate ai doublé de volume [video](https://youtu.be/gTGSUYMu6Ns?t=255)
 
