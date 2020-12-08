@@ -2,6 +2,8 @@ From:
 - [Sourdough bread for beginners](https://foodgeek.dk/en/sourdough-bread-recipe-for-beginners/)
 - [Beginner SOURDOUGH BREAD recipe - Learn how to make sourdough AT HOME!](https://youtu.be/Znv99QbfWGs)
 
+Les mesures d'eau sont a prenre avec des pincettes, cela dépend beaucoup de votre farine et de son degré d'absorbtion d'eau, il faudra adapté au jugé, mais en général les quatité ci-dessous sont OK pour la pluspart des farines. Avec le temps vous pouvez essayer d'augmenter progressivement la quantité d'eau. Une pate plus humide gonfle plus (en general) dans le four, mais elle est aussi plus dificile a travailler.
+
 ## Jour 1
 #### Levain
 - [ ] Prelever **50g de levain inactif**
