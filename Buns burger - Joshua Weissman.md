@@ -29,7 +29,7 @@ From: https://www.youtube.com/watch?v=gTGSUYMu6Ns
 ## Recette
 
 #### Préparation du tangzhong
-Le TangZhong est une préparation japonaise qui consiste a faire l'équivalent d'une béchamelle mais avec de l'eau à la place du beurre. Cette mixture ajoutée a une pate a brioche permet de la rendre plus souple et moelleuse.
+Le TangZhong est une préparation japonaise, ajoutée à la pate elle permet de la rendre plus souple et moelleuse.
 
 - [ ] Ajouter **60g de lait entier**, **27g d'eau** et **20g de farine a pain** dans une casserole et mélanger pour avoir une texture homogène
 - [ ] Placer sur feu moyen et mellanger vigoureusement jusqu'a obtenir une texture pateuse [video](https://youtu.be/gTGSUYMu6Ns?t=121)
