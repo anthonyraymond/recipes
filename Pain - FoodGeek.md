@@ -11,7 +11,7 @@ Les mesures d'eau sont a prenre avec des pincettes, cela dépend beaucoup de vot
 - [ ] :clock430: Attendre que le levain soit pret (+-4h), il devras avoir quasiment doublé de taille. Pour verifier en prendre une petite dose et le poser dans un verre rempli d'eau, si il flotte, c'et OK.
 
 #### Autolyse
-- [ ] Dans un bol déposer **686g de farine a pain**, **152g de farine de blé entier**, **509g d'eau** (pas du robinet)
+- [ ] Dans un bol déposer **686g de farine a pain**, **152g de farine de blé entier**, **559g d'eau** (pas du robinet)
 - [ ] Travailler la pate avec les main pour se débarasser des grumeau, poche d'eau, etc. [video](https://youtu.be/Znv99QbfWGs?t=274)
 - [ ] :clock1: Laisser reposer dans le bol couvert pendant 30 à 40 minutes a température ambiante
 
