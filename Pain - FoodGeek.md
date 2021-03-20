@@ -85,3 +85,19 @@ Les mesures d'eau sont a prenre avec des pincettes, cela dépend beaucoup de vot
 | T80  | Farine semi-complète / Farine à pain de blé entier               | Artisan bread flour                            |
 | T110 | Farine de blé entier / Farine complète / Farine complète traitée | Whole wheat flour                              |
 | T150 | Farine de blé intégrale / Farine complète non traitée            | Dark whole wheat flour                         |
+
+# Calcul de l'hydratation de la page
+
+```
+const hydratationPercentage = function (flour, sourdoughStarter, water) {
+	return ((water + sourdoughStarter/2) / (flour + sourdoughStarter /2)) * 100
+}
+
+const howMuchWaterForTargetPercentage = function (flour, sourdoughStarter, wantedPercentage) {
+	return Math.round(((wantedPercentage / 100) * (flour + sourdoughStarter /2)) - sourdoughStarter/2)
+}
+
+hydratationPercentage(686+152, 185, 559)
+howMuchWaterForTargetPercentage(686+152, 185, 70)
+```
+
