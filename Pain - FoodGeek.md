@@ -88,13 +88,13 @@ Les mesures d'eau sont a prenre avec des pincettes, cela dépend beaucoup de vot
 
 # Calcul de l'hydratation de la page
 
-```
-const hydratationPercentage = function (flour, sourdoughStarter, water) {
-	return ((water + sourdoughStarter/2) / (flour + sourdoughStarter /2)) * 100
+```js
+const hydratationPercentage = (flour, sourdoughStarter, water) => {
+  return ((water + sourdoughStarter/2) / (flour + sourdoughStarter /2)) * 100
 }
 
-const howMuchWaterForTargetPercentage = function (flour, sourdoughStarter, wantedPercentage) {
-	return Math.round(((wantedPercentage / 100) * (flour + sourdoughStarter /2)) - sourdoughStarter/2)
+const howMuchWaterForTargetPercentage = (flour, sourdoughStarter, wantedPercentage) => {
+  return Math.round(((wantedPercentage / 100) * (flour + sourdoughStarter /2)) - sourdoughStarter/2)
 }
 
 hydratationPercentage(686+152, 185, 559)
