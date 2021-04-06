@@ -2,7 +2,7 @@
 
 ### Ingrédients
 **Bolognaise**:
-- Poitrine de porc (ou pancetta ou équivalent, pas de lardon en barquette gonflés a l'eau !)
+- Poitrine de porc (ou pancetta ou équivalent; pas de lardon en barquette, ils sont gonflés a l'eau)
 - 2 oignons
 - 1 petite carotte
 - 1 branche de cèleri vert
@@ -27,7 +27,7 @@
 - 800ml de lait
 
 **Autre**:
-- 150g de parmesan (entier, pas du déjà râpé !)
+- 150g de parmesan (a raper soi même, si pas possible de le raper soi même ne rien mettre)
 
 ### Recette
 
@@ -80,6 +80,5 @@
 - 40 minutes à 180° (chaleur tournante), placez un léche frite en dessous du plat au cas ou il déborde pendant la cuisson.
 
 # Notes
-Evitez les lardons industriel en barquette, ils sont gonflés à la flotte et n'ont aucun gout. Un moreceau de lard (ventreche ou pancetta) acheté chez le boucheur / traiteur sera bien meilleur. Si vous n'en avez pas il vaut mieux ne rien mettre.
-
+Evitez les lardons industriel en barquette, ils sont gonflés à l'eau et n'apporterons rien. Si vous n'avez pas de moreceau de lard/ventreche/pancetta (non fumé de préférence) il vaut mieux ne rien mettre.
 Même combat pour le parmesan, celui vendu rapé est tout sec et n'a plus aucun gout (a part le gout de sel), préferrez un morceau de parmesan sous vide ou un morceau acheté chez le fromager.
