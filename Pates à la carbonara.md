@@ -8,7 +8,7 @@
  - 2 cuillères à soupe d’huile d’olive
 
 **Sauce**:
-- 90g de guanciale (ou ventrèche la plus grasse possible, pas de lardon industriels en barquette !)
+- 90g de guanciale (ou ventrèche la plus grasse possible, pas de lardons industriels en barquette !)
 - 40g de parmesan à raper soi même
 - 60g de pecorino à raper soi même (si on en trouve pas on peut rajouter 60g de parmesan à la place)
 - 1 oeuf entier + 1 jaune d’oeuf (1 jaune par personne, l'oeuf entier ne varie pas)
