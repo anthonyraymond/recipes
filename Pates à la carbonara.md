@@ -40,6 +40,6 @@
 
 
 # Notes
-- Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani et autre cochoneries de ce genre là, les Garofalo sont biens car elles sont épaisses et rugueuses mais il y a plein d’autres très bonnes marques. 
+- Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani, lustucru et autre cochoneries de ce genre là, les Garofalo sont biens car elles sont épaisses et rugueuses mais il y a plein d’autres très bonnes marques. 
 - On ne met **PAS D’HUILE** dans l’eau des pâtes !!! L'huile se déposerai à la surface des pates en la sauce glisserai dessus.
 - Si la sauce est trop liquide on peut la repasser rapidement sur feu doux sans jamais arreter de remuer. Si l'oeuf coagule c'est que la poêle était trop chaude ou que les pates n'ont pas été assez remués, dans le cas la on ne peut pas rattraper.
