@@ -8,9 +8,9 @@
  - 2 cuillères à soupe d’huile d’olive
 
 **Sauce**:
-- 90g de guanciale (ou ventrèche la plus grasse possible, pas de lardons industriels en barquette !)
+- 90g de guanciale (ou ventrèche la plus grasse possible, mais pas de lardons industriels en barquette 😡)
 - 40g de parmesan à raper soi même
-- 60g de pecorino à raper soi même (si on en trouve pas on peut rajouter 60g de parmesan à la place)
+- 60g de pecorino à raper soi même (si on en trouve pas on peut le remplacer par du parmesan)
 - 1 oeuf entier + 1 jaune d’oeuf (1 jaune par personne, l'oeuf entier ne varie pas)
 - 6 baies de poivre noir concassées.
 
@@ -40,6 +40,6 @@
 
 
 # Notes
-- Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani, lustucru et autre cochoneries de ce genre là, les Garofalo sont biens car elles sont épaisses et rugueuses mais il y a plein d’autres très bonnes marques. 
-- On ne met **PAS D’HUILE** dans l’eau des pâtes !!! L'huile se déposerai à la surface des pates en la sauce glisserai dessus.
+- Pour que la sauce accroche bien il faut des pâtes rugueuse, donc on évite les barilla, panzani, lustucru et autre cochoneries de ce genre. Les Garofalo sont biens car elles sont épaisses et rugueuses mais il y a d'autres très bonnes marques (felicetti, de cecco, rummo, ...).
+- On ne met **pas d’huile** dans l’eau des pâtes !!! L'huile se dépose à la surface des pates en la sauce accroche moins bien.
 - Si la sauce est trop liquide on peut la repasser rapidement sur feu doux sans jamais arreter de remuer. Si l'oeuf coagule c'est que la poêle était trop chaude ou que les pates n'ont pas été assez remués, dans le cas la on ne peut pas rattraper.
