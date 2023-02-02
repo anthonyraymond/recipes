@@ -27,7 +27,7 @@
 - 800ml de lait
 
 **Autre**:
-- 150g de parmesan (a raper soi même, si pas possible de le raper soi même ne rien mettre)
+- 150g de parmesan (a raper soi même, si pas possible il vaut mieux ne rien mettre)
 
 ### Recette
 
@@ -59,7 +59,7 @@
 
 #### Préparation de la béchamel
 - [ ] Faire fondre le beurre à feu doux.
-- [ ] Ajouter la farine et bien mélanger, laisser le roux cuire au moins **quatre minutes**.
+- [ ] Ajouter la farine et bien mélanger, laisser le roux cuire au moins **quatre minutes** en remuant de temps en temps.
 - [ ] Ajouter le lait froid en une seule fois.
 - [ ] Saler, Poivrer.
 - [ ] Mélanger au fouet pour défaire les grumeaux puis utiliser une marise pour maintenir le liquide en mouvement.
@@ -80,5 +80,5 @@
 - 40 minutes à 180° (chaleur tournante), placez un léche frite en dessous du plat au cas ou il déborde pendant la cuisson.
 
 # Notes
-Evitez les lardons industriel en barquette, ils sont gonflés à l'eau et n'apporterons rien. Si vous n'avez pas de moreceau de lard/ventreche/pancetta (non fumé de préférence) il vaut mieux ne rien mettre.
-Même combat pour le parmesan, celui vendu rapé est tout sec et n'a plus aucun gout (a part le gout de sel), préferrez un morceau de parmesan sous vide ou un morceau acheté chez le fromager.
+Evitez les lardons industriel en barquette, ils sont gonflés à l'eau et n'apporterons rien à la recette. Si vous n'avez pas de morceau de lard (ventreche, pancetta ou même guanciale) il vaut mieux ne rien mettre.
+Même combat pour le parmesan, le parmesan pré-rapé est tout sec et n'a plus aucun gout (à part le gout de sel), préferrez un morceau de parmesan sous vide ou un morceau acheté chez le fromager.
