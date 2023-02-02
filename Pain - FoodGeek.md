@@ -86,7 +86,7 @@ Les mesures d'eau sont a prenre avec des pincettes, cela dépend beaucoup de vot
 | T110 | Farine de blé entier / Farine complète / Farine complète traitée | Whole wheat flour                              |
 | T150 | Farine de blé intégrale / Farine complète non traitée            | Dark whole wheat flour                         |
 
-# Calcul de l'hydratation de la page
+# Calcul de l'hydratation de la pate
 
 ```js
 const hydratationPercentage = (flour, sourdoughStarter, water) => {
