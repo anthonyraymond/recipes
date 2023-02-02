@@ -2,11 +2,6 @@
 
 ### Ingrédients (pour 2 personnes)
 
-**Pâtes fraiches**:
- - 200g de semoule de blé dur
- - 2 œufs
- - 2 cuillères à soupe d’huile d’olive
-
 **Sauce**:
 - 90g de guanciale (ou ventrèche la plus grasse possible, mais pas de lardons industriels en barquette 😡)
 - 40g de parmesan à raper soi même
