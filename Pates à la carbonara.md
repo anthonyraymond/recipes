@@ -34,7 +34,7 @@
 - [ ] Ajouter une louche d'eau de cuisson des pates dans la poelle avec le guanciale.
 - [ ] Ajouter les pates dans la poêle (sans égouter) et poursuivre les cuisson des pates dans la poêle (si pas pates fraiches, rajouter de l'eau de cuisson dans la poêle de temps en temps jsuqu'a cuisson complete des pates).
 - [ ] Ajouter une toute petite louche d'eau de cuisson des pates dans le mélange d'oeuf et fouter pour obtenir une texture crémeuse.
-- [ ] Quand les pates sont prêtes (et qu'il n'y a plus trop d'eau dans la poêle, **retirer la poêle du feu**
+- [ ] Quand les pates sont prêtes (et qu'il n'y a plus trop d'eau dans la poêle, **retirer la poêle du feu**)
 - [ ] Attendre une dixaine de secondes et ajouter le mlange d'oeuf un un coup et remuer les pates sans jamais vous arreter pour éviter que l'oeuf ne coagule.
 - [ ] Verser les pates et la sauce dans une assiète et ajouter le guanciale grillé reservé précédement
 
