@@ -22,7 +22,7 @@
 
 
 #### Préparation
-- [ ] Mettre l'eau des pâtes à chauffer avec un peu de sel; pour cette recette on ne fera cuire les pâtes dans un volume d’eau inférieur à l’habitude car on veut concentrer l’amidon dans l’eau de cuisson.
+- [ ] Mettre l'eau des pâtes à chauffer avec un tout petit peu de sel; pour cette recette on ne fera cuire les pâtes dans un volume d’eau inférieur à l’habitude car on veut concentrer l’amidon dans l’eau de cuisson.
 - [ ] Torrefier le **poivre** dans une poêle quelques minutes à feu doux, puis le concasser et l'ajouter aved les oeufs
 - [ ] Faire dorrer le **guanciale** sur feu doux puis réserver le **guanciale** et le **gras de cuisson** (si on utilise de la poitrine, il faudra ajouter un petit peu de gras dans la poêle).
 - [ ] Commencer la cuisson des *pâtes* dans l'eau bouillante
