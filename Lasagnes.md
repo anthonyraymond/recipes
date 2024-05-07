@@ -77,7 +77,7 @@
   - Parmesan
 
 #### Cuisson
-- 40 minutes à 180° (chaleur tournante), placez un léche frite en dessous du plat au cas ou il déborde pendant la cuisson.
+- 40 minutes à 180° (chaleur tournante), placez un léche frite avec une feuille d'aluminuim en dessous du plat au cas ou il déborde pendant la cuisson.
 
 # Notes
 Evitez les lardons industriel en barquette, ils sont gonflés à l'eau et n'apporterons rien à la recette. Si vous n'avez pas de morceau de lard (ventreche, pancetta ou même guanciale) il vaut mieux ne rien mettre.
