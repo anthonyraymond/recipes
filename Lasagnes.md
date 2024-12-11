@@ -33,7 +33,7 @@
 
 #### Préparation de la bolognaise
 - [ ] Couper le **lard séché** en lardon fin.
-- [ ] Emincer les **oignons**, **carotte** et **céleri** en petit cube d'un demi centimetre (garder une feuille de céleri pour le bouquet garni).
+- [ ] Emincer les **oignons**, **carotte** et **céleri** en petit cube d'un demi centimètre (garder une feuille de céleri pour le bouquet garni).
 - [ ] Dans un faitou chaud, faire **dorer le lard**. Puis le sortir du faitou et le mettre sur un papier absorbant.
 - [ ] Faire **suer les oignons** dans le gras des lardon (si pas carbonisé, sinon changer pour huile d'olive) + beurre.
 - [ ] Ajouter les **légumes** et monter un peu le feu, laisser 5 minutes en remuant fréquement.
