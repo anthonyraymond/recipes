@@ -22,9 +22,9 @@
 - 3 cuillères à soupe d’huile d’olive
 
 **Béchamel**:
-- 80g de beurre
-- 80g de farine
-- 800ml de lait
+- 100g de beurre
+- 100g de farine
+- 1l de lait
 
 **Autre**:
 - 150g de parmesan (a raper soi même, si pas possible il vaut mieux ne rien mettre)
