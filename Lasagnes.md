@@ -2,7 +2,7 @@
 
 ### Ingrédients
 **Bolognaise**:
-- Poitrine de porc séchée (ou pancetta ou équivalent; pas de lardon en barquette, ils sont gonflés a l'eau)
+- Poitrine de porc séchée (ou pancetta ou guanciale ou équivalent; pas de lardon en barquette, ils sont gonflés a l'eau)
 - 2 oignons
 - 1 petite carotte
 - 1 branche de cèleri vert
