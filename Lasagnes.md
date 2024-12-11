@@ -7,7 +7,7 @@
 - 1 petite carotte
 - 1 branche de cèleri vert
 - 450g de bœuf haché
-- 300ml de fond de veau
+- 300ml de bouillon de boeuf
 - 800 ml de tomates en morceau
 - 80cl de coulis de tomate
 - 3 gousse d’ails
@@ -36,15 +36,14 @@
 - [ ] Emincer les **oignons**, **carotte** et **céleri** en petit cube d'un demi centimètre (garder une feuille de céleri pour le bouquet garni).
 - [ ] Dans un faitou chaud, faire **dorer le lard**. Puis le sortir du faitou et le mettre sur un papier absorbant.
 - [ ] Faire **suer les oignons** dans le gras des lardon (si pas carbonisé, sinon changer pour huile d'olive) + beurre.
-- [ ] Ajouter les **légumes** et monter un peu le feu, laisser 5 minutes en remuant fréquement.
+- [ ] Ajouter les **légumes** et l’**ail** (juste écrasé avec le couteau) puis monter un peu le feu, laisser 5 minutes en remuant fréquement.
 - [ ] Retirer les légumes.
 - [ ] Monter le feu quand, le faitou est bien chaud, ajouter la **viande hachée** et faire dorrer puis continuer jusqu'a évapotation quasi compléte de l'eau rejettée par la viande.
-- [ ] **Déglacer au fond de veau** et laisser réduire une petite minute.
+- [ ] Ajouter les **tomates en morceau**, le **coulis de tomate**, le **bouillon de boeuf** et le **vin rouge** (optionel).
 - [ ] Remettre le lard, les oignons et les légumes dans le faitou.
-- [ ] Ajouter les **tomates en morceau**, le **coulis de tomate**, l’**ail** (juste écrasé avec le couteau) et le **vin rouge** (optionel).
 - [ ] Former un **bouquet garni** avec le thym, le laurier, la sauge, la feuilles de céleri et l’ajouter dans la bolognaise.
 - [ ] Saler, poivrer (légérement car ca va réduire).
-- [ ] :clock2: Laisser mijoter une à deux heures sur feu doux, commencez à couvert puis retirer le couvercle sur la fin pour faire évaporer l’eau et avoir une sauce un peu plus consistante.
+- [ ] :clock2: Laisser mijoter une à deux heures sur feu doux, commencez à couvert puis retirer le couvercle sur la dernière demi-heure pour faire évaporer l’eau et avoir une sauce un peu plus consistante.
 
 
 #### Préparation des pâtes
